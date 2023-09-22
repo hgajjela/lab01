@@ -1,0 +1,37 @@
+0          Mehdi Badii   
+1     D. Paul Benjamin   
+2        Sung-Hyuk Cha   
+3        Carmine Guida   
+4       Anthony Joseph   
+5           Rick Kline   
+6      Miguel Mosteiro   
+7   Christelle Scharff   
+8            Juan Shan   
+9            Lixin Tao   
+10     Charles Tappert   
+
+                                                        Titles  \
+0                                                    Professor   
+1   Professor, Director of the PhD Program in Computer Science   
+2                                                    Professor   
+3                                 Clinical Assistant Professor   
+4                            Professor, Department Chairperson   
+5            Associate Professor, Assistant Departmental Chair   
+6                                          Associate Professor   
+7                                                    Professor   
+8                                          Associate Professor   
+9                            Professor, Department Chairperson   
+10                                          Clinical Professor   
+
+                                                       Department  \
+0                                       Seidenberg School of CSIS   
+1                                       Seidenberg School of CSIS   
+2                                       Seidenberg School of CSIS   
+3   Seidenberg School of Computer Science and Information Systems   
+4                                       Seidenberg School of CSIS   
+5   Seidenberg School of Computer Science and Information Systems   
+6                                       Seidenberg School of CSIS   
+7                                       Seidenberg School of CSIS   
+8                                       Seidenberg School of CSIS   
+9                                       Seidenberg School of CSIS   
+10                                      Seidenberg School of CSIS   

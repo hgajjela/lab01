@@ -1,0 +1,13 @@
+0   Parallel computing (detection of parallelism by grammatical means, includes algorithm design, complexity theory, parallel computation, VLSI design, cryptographic protocols, machine learning, computational biology and communications)  
+1                                                                                                                                                                                                                                   Robotics  
+2                                                                                                                                                                                                                          Document analysis  
+3                                                                                                                                                                                                                            Computer Vision  
+4                                   Digital signal/image processing with applications including: spectral and time-frequency analysis, and synthesis in economics/finance, computer security/forensics, image enhancement, and steganography  
+5                                                                                                                                                                                  K-12 STEM Education; Usability and User Experience Design  
+6                                                                                     Algorithmic problems arising in computational environments that are harshly constrained due to limitations on energy, cost, and/or physical conditions  
+7                                                                                                                                                      Programming (distributed and parallel implementations on distributed memory machines)  
+8                                                                                                                                                                                                                           Machine learning  
+9                                                                                                                                                                                                                         Internet computing  
+10                                                                                                                                                                                                             Dissertation research methods  
+1
+df.to_csv("Faculty_dataset.csv" )
